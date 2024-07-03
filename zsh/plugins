@@ -1,0 +1,5 @@
+plugins=(
+        zsh-nvim-appname
+        zsh-nvim
+        )
+
